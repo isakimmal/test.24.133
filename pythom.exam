@@ -1,0 +1,6 @@
+a=int(int("enter the number=",)
+b=in(int("enter the another number=",)
+if:a>b
+      (enter a is greater than b
+else:      
+     (enter b is greater than b)
